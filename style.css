@@ -1,0 +1,18 @@
+input#hangmanWord {
+    -webkit-text-security: disc;
+    text-transform: uppercase;
+}
+
+.hangman-word-letter {
+    font-size: 50px;
+    border-bottom: 5px solid black;
+    margin-right: 10px;
+    margin-left: 10px;
+    min-width: 60px;
+    text-align: center;
+}
+
+.played-letters{
+    text-align: center;
+    font-size: 50px;
+}
