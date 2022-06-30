@@ -16,3 +16,9 @@ input#hangmanWord {
     text-align: center;
     font-size: 50px;
 }
+
+
+.cores {
+    background-color:rgb(128, 204, 255);
+}
+
